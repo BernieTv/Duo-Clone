@@ -142,5 +142,3 @@ To run the app in development mode, execute:
 ```shell
 npm run dev
 ```
-
----
