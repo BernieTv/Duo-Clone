@@ -1,3 +1,4 @@
+
 # 🌟 Duolingo Clone Built with Next.js, React, Drizzle, and Stripe 🚀
 
 A fun, gamified language-learning platform inspired by Duolingo, built with modern technologies to provide an immersive experience. This project leverages AI voices, gamification features, and a robust backend system to help users learn new languages while having fun. 🎉📚
@@ -141,3 +142,5 @@ To run the app in development mode, execute:
 ```shell
 npm run dev
 ```
+
+---
